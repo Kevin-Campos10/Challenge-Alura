@@ -24,4 +24,3 @@ El desafío consiste en construir una página web que contenga el [juego del aho
 
 <br>
 
-[Pruébalo](https://david-blanc.github.io/Juego-del-Ahorcado/), y consigue una puntuación perfecta!!
